@@ -1,5 +1,11 @@
 # Zeitgeist Privacy Notice
 
+## Workshops-specific privacy information
+
+> Specific details regarding data processing, storage, and retention for this project are outlined in the accompanying Participant Information Sheet. Please refer to that document for a breakdown of how your information will be handled during these sessions. **In the event of any inconsistency between this Privacy Notice and the Participant Information Sheet, the Participant Information Sheet will prevail.**
+
+The workshop information sheet for your workshop is either available through Zeitgeist as a link you can click from the link to your workshop, or by email. You can request a copy at: [workshop.support@nesta.org.uk](workshop.support@nesta.org.uk)
+
 ## 1\. Introduction
 
 The Centre for Collective Intelligence at Nesta delivers online and in-person workshops to let the public deliberate and be polled on topics and policy measures. We have developed a platform called Zeitgeist which helps us to carry out this work by using content hosting (video, text, images) for explaining policy issues; with interactive polling features and real-time group-level results. It is used to support facilitated deliberation of small groups; with functionality to support in-person and remote participation. Certain data collected from those workshops is analysed to inform and provide recommendations for the topic or policies being discussed. This privacy notice together with the workshop information sheet explains how we collect and use your personal data when you participate in our workshops and use Zeitgeist.
